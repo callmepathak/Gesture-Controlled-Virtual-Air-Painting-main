@@ -1,4 +1,19 @@
-# Virtual Ai Pinting
+
+# gesture control Virtual Air Painting
+
+This is an application that enables one to vitually paint in the air using their fingers. It is developed in python on openCV, TfLite and Mediapipe.
+So go ahead and recreate your imaginations in the air !
+
+
+### Usage:
+- Use your index finger to draw.
+- To change color/ use eraser, use index and middle fingers to select it by hovering on it.
+- Continue painting !
+
+
+### Project overview
+
+# Gesture Control Virtual Air Pinting
 
 Project Description:
 The "Virtual AI Painter" is an innovative project aimed at leveraging cutting-edge technologies to create a virtual painting experience. This project harnesses the power of Python, OpenCV, TfLite, and Mediapipe to enable users to paint on a digital canvas using hand gestures.
